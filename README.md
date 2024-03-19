@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js 
+- 🌱 I’m currently learning **React.js / React Native 
 
 - 📫 How to reach me **akintiryaki28@gmail.com**
 
