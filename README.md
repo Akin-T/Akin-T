@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akın</h1>
+
 <h3 align="center">Student | Developer</h3>
 
 
