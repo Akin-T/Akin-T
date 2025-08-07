@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **React.js / React Native 
+I’m currently learning **React.js / React Native 
 
-- 📫 How to reach me **akintiryaki28@gmail.com**
+How to reach me **akintiryaki28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
